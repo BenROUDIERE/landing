@@ -1,0 +1,23 @@
+.banner {
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://media.giphy.com/media/LQiq27myXGPXO6WzAE/giphy.gif);
+    background-size: cover;
+    background-position: center;
+    padding: 200px 0;
+}
+
+.banner h1 {
+  color: white;
+  font-size: bold;
+}
+
+.banner p{
+  color: lightgrey;
+  font-size: 20px;
+}
+
+#italic-text {
+  color; lightgrey;
+  font-size: 15px;
+  font-style: italic;
+  margin-bottom: 30px;
+}
