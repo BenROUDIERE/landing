@@ -1,5 +1,7 @@
 /* Fonts */
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:700');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Roboto+Mono:wght@200&display=swap');
 
 /* Fontawesome */
 @import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
@@ -14,11 +16,11 @@
 /* Utilities */
 body {
   margin: 0;
-  font-family: Open Sans;
+  font-family: 'Roboto Mono', monospace;
 }
 
 h1, h2, h3, h4 {
-  font-family: Poppins;
+  font-family: 'Press Start 2P', cursive;
 }
 
 a {

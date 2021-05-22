@@ -1,7 +1,15 @@
 .btn-primary {
     display: inline-block;
     background-color: #1EDD88;
+    box-shadow: 0 2px 5px rgba(0,0,0,1);
     padding: 16px 36px;
-    border-radius: 50px;
     color: white;
+}
+.btn-primary:hover {
+    display: inline-block;
+    background-color: black;
+    box-shadow: 0 2px 5px rgba(0,0,0,1);
+    padding: 16px 36px;
+    color: #1EDD88;
+    border: 1px solid #1EDD88;
 }
